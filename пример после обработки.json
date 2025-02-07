@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Готический квартал",
+        "description": "Готический квартал (Barri Gòtic) — исторический центр Барселоны, известный своими узкими средневековыми улочками, сохранившимися со времен Римской империи. Здесь можно увидеть древние здания, площади и соборы, отражающие богатую историю города.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Barri_G%C3%B2tic_de_Barcelona.jpg",
+        "coordinates": "41.3839, 2.1763",
+        "address": "Barri Gòtic, 08002 Barcelona, Испания"
+    },
+    {
+        "name": "Кафедральный собор Барселоны",
+        "description": "Кафедральный собор Святого Креста и Святой Евлалии — главный готический собор Барселоны, построенный между XIII и XV веками. Собор посвящен Святой Евлалии, покровительнице города, и известен своей впечатляющей архитектурой и внутренним убранством.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Catedral_de_la_Santa_Creu_i_Santa_Eul%C3%A0lia.jpg",
+        "coordinates": "41.3840, 2.1765",
+        "address": "Pla de la Seu, s/n, 08002 Barcelona, Испания"
+    },
+    {
+        "name": "Храм Санта-Мария-дель-Пи",
+        "description": "Базилика Санта-Мария-дель-Пи — готическая церковь XIV века, расположенная в Готическом квартале Барселоны. Известна своим большим розеточным окном и впечатляющей колокольней.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Santa_Maria_del_Pi_Barcelona.jpg",
+        "coordinates": "41.3813, 2.1730",
+        "address": "Plaça del Pi, 7, 08002 Barcelona, Испания"
+    },
+    {
+        "name": "Дом Бальо",
+        "description": "Дом Бальо — знаменитое здание, спроектированное Антонио Гауди, расположенное на проспекте Пасео де Грасиа. Известно своей уникальной архитектурой с волнистыми формами и яркими мозаиками.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Casa_Batll%C3%B3_%28Barcelona%29.jpg",
+        "coordinates": "41.3917, 2.1649",
+        "address": "Passeig de Gràcia, 43, 08007 Barcelona, Испания"
+    },
+    {
+        "name": "Дом Мила",
+        "description": "Дом Мила, также известный как Ла Педрера, — еще одно выдающееся произведение Антонио Гауди. Здание отличается своей волнообразной каменной фасадой и уникальными архитектурными решениями.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Casa_Milà_%28La_Pedrera%29.jpg",
+        "coordinates": "41.3954, 2.1622",
+        "address": "Passeig de Gràcia, 92, 08008 Barcelona, Испания"
+    },
+    {
+        "name": "Дом Висенс",
+        "description": "Дом Висенс — первое значительное произведение Антонио Гауди, построенное в 1880-х годах. Здание сочетает в себе элементы восточного и неомавританского стилей с яркими керамическими плитками.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Casa_Vicens_%28Barcelona%29.jpg",
+        "coordinates": "41.4036, 2.1568",
+        "address": "Carrer de les Carolines, 20-26, 08012 Barcelona, Испания"
+    },
+    {
+        "name": "Дом Кальвет",
+        "description": "Дом Кальвет — здание, спроектированное Антонио Гауди в стиле модерн, расположенное в районе Эшампле. Известно своей симметричной фасадой и декоративными элементами.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Casa_Calvet_%28Barcelona%29.jpg",
+        "coordinates": "41.3911, 2.1700",
+        "address": "Carrer de Casp, 48, 08010 Barcelona, Испания"
+    },
+    {
+        "name": "Парк Гуэль",
+        "description": "Парк Гуэль — знаменитый парк, спроектированный Антонио Гауди, известный своими красочными мозаиками, извилистыми скамейками и уникальной архитектурой, гармонично сочетающейся с природным ландшафтом.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Parc_Güell_02.jpg",
+        "coordinates": "41.4145, 2.1527",
+        "address": "Carrer d'Olot, s/n, 08024 Barcelona, Испания"
+    },
+    {
+        "name": "Саграда Фамилия",
+        "description": "Саграда Фамилия — знаменитый незавершенный храм, спроектированный Антонио Гауди. Является символом Барселоны и известен своей уникальной архитектурой и долгим процессом строительства.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sagrada_Família_%28Barcelona%29.jpg",
+        "coordinates": "41.4036, 2.1744",
+        "address": "Carrer de Mallorca, 401, 08013 Barcelona, Испания"
+    },
+    {
+        "name": "Гора Монтжуик",
+        "description": "Монтжуик — холм в Барселоне, известный своими парками, музеями и спортивными сооружениями. Здесь находятся Национальный дворец, Олимпийский стадион и знаменитые поющие фонтаны.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Montjuïc_-_Palau_Nacional.jpg",
+        "coordinates": "41.3636, 2.1583",
+        "address": "Carrer de Mallorca, 401, 08013 Barcelona, Испания"
+    }
+] 
